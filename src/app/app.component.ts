@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'wijmodemo';
-  value;
+  value = 1;
   cd() {
     console.log('run change detection');
   }

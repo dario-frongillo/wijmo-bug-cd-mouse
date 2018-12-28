@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'wijmodemo';
   value;
   cd() {
-    console.log('run change detection')
+    console.log('run change detection');
   }
 }
